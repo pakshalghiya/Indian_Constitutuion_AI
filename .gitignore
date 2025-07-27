@@ -8,6 +8,8 @@ env.bak/
 venv.bak/
 .env.local
 .secrets
+.toml
+toml/
 
 # Python
 __pycache__/
