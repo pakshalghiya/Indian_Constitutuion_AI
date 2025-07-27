@@ -10,6 +10,10 @@ venv.bak/
 .secrets
 .toml
 toml/
+.streamlit
+.streamlit/
+.streamlit/secrets.toml
+secrets.toml
 
 # Python
 __pycache__/
