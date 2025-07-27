@@ -1,0 +1,33 @@
+# Web Framework
+fastapi>=0.88.0
+uvicorn>=0.20.0
+streamlit>=1.18.0
+python-dotenv==1.0.0
+pydantic==2.5.2
+
+# OpenAI
+openai>=1.1.0
+
+# Vector Database and Embeddings
+langchain==0.1.0
+langchain-openai>=0.0.2
+faiss-cpu==1.7.4
+chromadb>=0.4.13
+sentence-transformers>=2.2.2
+pysqlite3-binary>=0.5.1
+pypdf==3.17.1
+tiktoken==0.5.2
+
+# Data Processing
+pandas>=1.5.2
+numpy>=1.24.1
+
+# Visualization
+plotly>=5.13.0
+
+# Development & Testing
+pytest>=7.3.1
+black>=23.3.0
+
+# Logging and Monitoring
+loguru>=0.7.0 

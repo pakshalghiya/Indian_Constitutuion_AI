@@ -1,0 +1,15 @@
+# Start of Selection
+sqlalchemy==2.0.23
+pymysql==1.1.0
+mysql-connector-python==8.2.0
+openai==1.6.1
+python-dotenv==1.0.0
+requests==2.31.0
+pandas==2.1.3
+streamlit==1.29.0
+numpy==1.24.3
+pinecone-client>=3.0.0
+qdrant-client==1.6.4
+langchain==0.1.0
+langchain-openai==0.0.2.post1
+langchain-pinecone==0.0.1
